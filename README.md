@@ -1,7 +1,5 @@
 # PhilosophYe-West
 
-
-# Philosophy
 Generates a random philosophical quote from one of the greatest and most well known philosophers of the twenty first century - Kanye West
 
 Fetches a random actual well known philosopher's picture and one of his famous works to pair with Kanye's quote.
